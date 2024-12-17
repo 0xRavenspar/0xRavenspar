@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Zer0xC0DE&theme=tokyonight-duo" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Zer0xC0DE&theme=tokyonight-duo"/>
      </td>
    </tr>
   <tr>
