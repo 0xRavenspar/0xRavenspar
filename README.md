@@ -9,6 +9,7 @@
 <table>
   <tr>
     <td>
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zer0xC0DE&theme=tokyonight-duo)](https://git.io/streak-stats)
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Zer0xC0DE&theme=neon-palenight&hide_border=true&card_width=705">
      </td>
    </tr>
