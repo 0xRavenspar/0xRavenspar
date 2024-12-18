@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=zer0xC0DE&theme=tokyonight"/>
+      <img src="https://streak-stats.demolab.com?user=zer0xC0DE&theme=tokyonight&hide_border=true&card_width=705"/>
      </td>
    </tr>
   <tr>
