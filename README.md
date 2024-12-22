@@ -2,7 +2,7 @@
 
 Hi 👋 I'm Tanmay, a student learning cybersecurity and systems programming, with a passion for offensive security, reverse engineering, malware analysis, and bug bounty hunting.
 
-- 💻 I’m currently learning ASM and Rust.
+- 💻 I’m currently learning System Programming with C and Rust.
 - 🤝 I’m looking to collaborate on Rust and C projects.
 - 🧠 I’m looking for help with Rust and LLVM.
 
