@@ -11,7 +11,7 @@ Hi 👋 I'm Tanmay, a student learning cybersecurity and systems programming, wi
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-r-k)
   [![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ravenspar@protonmail.com)
 
-[![Tryhackme](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2353964)](https://tryhackme.com/r/p/ravenspar)
+![Tryhackme](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2353964)
 
 # 📊 GitHub Stats:
 <table>
