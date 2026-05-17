@@ -11,8 +11,6 @@ Hi 👋 I'm Tanmay, a student learning cybersecurity and systems programming, wi
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-r-k)
   [![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ravenspar@protonmail.com)
   
-  [![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/ravenspar.png?)](https://tryhackme.com/p/ravenspar)
-
 ## 💻 Tech Stack & Tools  
 
 ### 🌱 Languages & Development Tools  
