@@ -45,12 +45,6 @@ Hi 👋 I'm Tanmay, a student learning cybersecurity and systems programming, wi
 <table>
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app?user=0xRavenspar&theme=dark&hide_border=true&card_width=705"/>
-     </td>
-   </tr>
-</table><table>
-  <tr>
-    <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xRavenspar&theme=dark">
      </td>
    </tr>
